@@ -1,11 +1,11 @@
-# AWS Amplify
+# AWS Amplify &nbsp; 🕵️‍♂️
 
-This is AWS serverless framework      
+This is AWS serverless framework needed to interact with AWS services.    
 It simply adds the Auth service into a React application like this:
 
 <br />
 
-[Sign in/ Sign out](./src/assets/signIn-signOut.png)
+![Sign in/ Sign out](/src/assets/signIn-signOut.png)
 
 
 <br />
@@ -14,11 +14,11 @@ It simply adds the Auth service into a React application like this:
 
 - `npm install -g @aws-amplify/cli`    // Installs Amplify CLI
 
-Must configure Amplify first (create an account with AWS)
+🚏 &nbsp; Must configure Amplify first (create an account with AWS)
 
 - `amplify configure`   
 
-Then inside of React Application
+🚏 &nbsp; Then inside of React Application
 
 - `npm install aws-amplify @aws-amplify/ui-react`
 - `amplify init`   // app configuration
@@ -29,4 +29,4 @@ Then inside of React Application
 
 <br />
 
-:100%:# aws-auth
+:100: &nbsp;  auth-service
